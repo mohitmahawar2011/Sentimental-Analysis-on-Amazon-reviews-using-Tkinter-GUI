@@ -78,7 +78,7 @@ class Amazon():
     def generate_result(self):
         self.input = self.preprocessed_reviews(self.input)
         print(self.input)
-        df = pd.read_csv(r'C:\\Users\\asus\\Desktop\\ML_Project\\New_folder\\final_reviews__.csv')
+        df = pd.read_csv(r'final_reviews__.csv')
         print('ok')
 
         #y_train = df.sentiment
@@ -90,7 +90,7 @@ class Amazon():
         print('fitted')
         X_test = vectorizer.transform([self.input])
         print('input fit')
-        filename = 'C:\\Users\\asus\\Desktop\\ML_Project\\New_folder\\final_last_model.sav'
+        filename = 'final_last_model.sav'
         loaded_model = pickle.load(open(filename, 'rb'))
         result = loaded_model.predict(X_test)
         print('result ',result)
