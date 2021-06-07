@@ -38,13 +38,11 @@ This project mainly focuses on Sentiment Analysis of Amazon Food Reviews. Variou
 ## Implementations
 
 - Dimensionality Reduction using t-SNE , PCA
-- Naive Bayes
 - Logistic Regression
 - SGD for linear Regression
 - Support Vector Machines
-- Decision Trees
 - Random Forests and GBDT
 - KMeans , Agglomerative and Hierarchical Clustering methods (Unsupervised)
-- TruncatedSVD (Co-occurrence matrix) - Matrix Factorization method (Used in recommendation systems)
+- Create Confusion matrix
 
 
