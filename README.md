@@ -45,4 +45,22 @@ This project mainly focuses on Sentiment Analysis of Amazon Food Reviews. Variou
 - KMeans , Agglomerative and Hierarchical Clustering methods (Unsupervised)
 - Create Confusion matrix
 
+### type of Sentiment :
+---
+![Screenshot (39)](https://user-images.githubusercontent.com/75325526/122684789-45b45080-d225-11eb-815f-7348093c1c82.png)
 
+### Confusion matrix :
+---
+![Screenshot (35)](https://user-images.githubusercontent.com/75325526/122684770-2289a100-d225-11eb-9fa5-fcf684e49a80.png)
+
+
+## deployment
+ Using Tkinter GUI interface
+
+![Screenshot (33)](https://user-images.githubusercontent.com/75325526/122684736-d5a5ca80-d224-11eb-94e6-05a128719990.png)
+
+### Predicted Sentiment :
+![Screenshot (34)](https://user-images.githubusercontent.com/75325526/122684758-0be34a00-d225-11eb-8875-08bfec771b5d.png)
+
+---
+#### prediction Accuracy Score - 83.70%  (great)
