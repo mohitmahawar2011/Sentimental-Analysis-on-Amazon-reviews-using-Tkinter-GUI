@@ -64,3 +64,8 @@ This project mainly focuses on Sentiment Analysis of Amazon Food Reviews. Variou
 
 ---
 #### prediction Accuracy Score - 83.70%  (great)
+
+
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Mohit Mahawar](https://github.com/mohitmahawar2011)
